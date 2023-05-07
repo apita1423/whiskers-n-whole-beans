@@ -23,7 +23,7 @@ h1, h2 {
 
 #logo {
     float: left;
-    width: 180px;
+    width: 120px;
 }
 
 /* Navigation Links */
@@ -34,7 +34,7 @@ h1, h2 {
 }
 
 #menu, #logo {
-    line-height: 20px;
+    line-height: 50px;
 }
 
 #menu li {
@@ -54,4 +54,18 @@ h1, h2 {
 
 .active {
     border-bottom: 1px solid #3a3a3a;
+}
+
+/* Hero Image */
+
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url(../images/home-hero-one.webp) no-repeat center center;
 }
