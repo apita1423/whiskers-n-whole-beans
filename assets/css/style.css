@@ -23,7 +23,8 @@ h1, h2 {
 
 #logo {
     float: left;
-    width: 120px;
+    width: 550px;
+    margin-left: 30px;
 }
 
 /* Navigation Links */
@@ -31,6 +32,7 @@ h1, h2 {
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
+    text-align: center;
 }
 
 #menu, #logo {
@@ -68,4 +70,17 @@ h1, h2 {
     height: 600px;
     width: 100%;
     background: url(../images/home-hero-one.webp) no-repeat center center;
+}
+
+/* our ethos */
+
+#main-idea {
+    height: 600px;
+    text-align: center;
+}
+
+#top-whisker {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
 }
