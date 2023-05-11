@@ -73,15 +73,17 @@ h1, h2 {
     margin-bottom: 30%;
 }
 
-/* our ethos */
+/* welcome */
 
 #main-idea {
     height: 600px;
 }
 
 #main-idea h1 {
-    margin: 15px 0px 20px 0px;
+    margin: 20px 0px 20px 0px;
     text-align: center;
+    font-size: 200%;
+    color: #005B44
 }
 
 #top-whisker {
@@ -101,6 +103,6 @@ h1, h2 {
 }
 
 .main-cat-text {
-    font-size: 20px;
+    font-size: 26px;
     float: left;
 }
