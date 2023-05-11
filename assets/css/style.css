@@ -70,12 +70,17 @@ h1, h2 {
     height: 600px;
     width: 100%;
     background: url(../images/home-hero-one.webp) no-repeat center center;
+    margin-bottom: 30%;
 }
 
 /* our ethos */
 
 #main-idea {
     height: 600px;
+}
+
+#main-idea h1 {
+    margin: 15px 0px 20px 0px;
     text-align: center;
 }
 
@@ -88,10 +93,14 @@ h1, h2 {
 .main-cat-image {
     max-width: 100%;
     max-height: 100%;
-    margin-right: auto;
+    margin-left: 25%;
+}
+
+.main-cat-image p {
+    margin-right: 10px;
 }
 
 .main-cat-text {
     font-size: 20px;
-    float: inline-start;
+    float: left;
 }
