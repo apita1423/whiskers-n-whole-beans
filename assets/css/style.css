@@ -79,23 +79,21 @@ h1, h2 {
     height: 600px;
 }
 
-#main-idea h1 {
-    margin: 20px 0px 20px 0px;
+#top-whisker h1 {
     text-align: center;
     font-size: 200%;
-    color: #005B44
-}
-
-#top-whisker {
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
+    color: #3a3a3a;
+    margin-top: 20px;
 }
 
 .main-cat-image {
     max-width: 100%;
     max-height: 100%;
     margin-left: 25%;
+}
+
+.main-cat-image img {
+    border-radius: 5%;
 }
 
 .main-cat-image p {
