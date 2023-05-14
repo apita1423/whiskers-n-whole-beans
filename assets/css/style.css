@@ -178,8 +178,6 @@ h1, h2 {
     padding-right: 15px;
 }
 
-
-
 /* footer */
 
 footer {
@@ -187,10 +185,32 @@ footer {
     border-top-width: 2px;
     border-top-style: solid;
     border-top-color: #47342F;
+    background-color: antiquewhite;
+}
+
+#hours-operation {
+    float: left;
+    font-size: 15px;
+    margin-top: 2%;
+    margin-left: 35%;
+    border: 5px solid #F17755;
+    padding: 10px;
+    border-radius: 15%;
+}
+
+#our-location {
+    float: right;
+    margin-top: 2.5%;
+    margin-right: 35%;
+    border: 5px solid #F17755;
+    padding: 10px;
+    border-radius: 15%;
 }
 
 .social-networks {
     text-align: center;
+    margin-right: 20px;
+    padding-top: 9%;
 }
 
 .social-networks > li {
