@@ -10,7 +10,8 @@ body {
     font-family: Lato, sans-serif;
     font-weight: 300;
     min-height: 100vh;
-    color: #3a3a3a
+    color: #402E32;
+    background-color: #FFF8F0;
 }
 
 /* Heading and Logo */
@@ -19,7 +20,7 @@ h1, h2 {
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color:#079182;
+    color:#402E32;
 }
 
 #logo {
@@ -52,11 +53,11 @@ h1, h2 {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #402E32;
 }
 
 .active {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #402E32;
 }
 
 /* Hero Image */
@@ -184,8 +185,8 @@ footer {
     margin-top: 60%;
     border-top-width: 2px;
     border-top-style: solid;
-    border-top-color: #47342F;
-    background-color: antiquewhite;
+    border-top-color: #FFF8F0;
+    background-color: #402E32 !important;
 }
 
 #hours-operation {
@@ -193,7 +194,8 @@ footer {
     font-size: 15px;
     margin-top: 2%;
     margin-left: 35%;
-    border: 5px solid #F17755;
+    color: #FFF8F0;
+    border: 5px solid #FFF8F0;
     padding: 10px;
     border-radius: 15%;
 }
@@ -202,29 +204,33 @@ footer {
     float: right;
     margin-top: 2.5%;
     margin-right: 35%;
-    border: 5px solid #F17755;
+    color: #FFF8F0;
+    border: 5px solid #FFF8F0;
     padding: 10px;
     border-radius: 15%;
 }
 
 .social-networks {
     text-align: center;
+    color: #FFF8F0;
     margin-right: 20px;
     padding-top: 9%;
 }
 
 .social-networks > li {
     display: inline;
+    color: #FFF8F0;
 }
 
 .social-networks i {
     font-size: 160%;
     margin: 1%;
     padding: 2%;
-    color: #3a3a3a;
+    color: #FFF8F0;
 }
 
 footer > p {
     text-align: center;
     font-size: 20px;
+    color: #FFF8F0;
 }
