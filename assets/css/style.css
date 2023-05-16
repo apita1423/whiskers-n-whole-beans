@@ -277,7 +277,7 @@ footer > p {
     height: auto;
     width: 700px;
     padding-top: 20px;
-    margin-right: 80px;
+    margin-right: 70px;
     border-radius: 20%;
 }
 
@@ -295,4 +295,16 @@ footer > p {
 
 .mo-eva-text {
     font-size: 19.5px;
+}
+
+#middle-rescue h1 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.middle-cat-image img {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    margin-right: 20%;
 }
