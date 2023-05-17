@@ -298,13 +298,29 @@ footer > p {
 }
 
 #middle-rescue h1 {
-    text-align: center;
-    padding-top: 20px;
+    font-size: 45px;
+    margin-left: 30%;
+    padding-top: 100px;
+    padding-bottom: 20px;
 }
 
-.middle-cat-image img {
+.middle-rescue-image {
     display: flex;
-    align-items: flex-end;
-    justify-content: flex-end;
-    margin-right: 20%;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: row-reverse;
+    max-width: 100%;
+    max-height: 100%;
+    margin-right: 10%;
+}
+
+.middle-rescue-image img {
+    border-radius: 20%;
+}
+
+.middle-rescue-text {
+    margin-left: 200px;
+    padding-top: 50px;
+    padding-right: 15px;
+    font-size: 19.5px;
 }
