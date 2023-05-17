@@ -297,6 +297,8 @@ footer > p {
     font-size: 19.5px;
 }
 
+/* people middle rescue */
+
 #middle-rescue h1 {
     font-size: 45px;
     margin-left: 30%;
@@ -323,4 +325,28 @@ footer > p {
     padding-top: 50px;
     padding-right: 15px;
     font-size: 19.5px;
+}
+
+/* people bottom cafe */
+
+#bottom-people-cafe h1 {
+    font-size: 45px;
+    margin-left: 30%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.bottom-coffee-image {
+    float: left;
+    margin-left: 20px;
+    padding-right: 30px;
+    padding-bottom: auto;
+}
+
+.bottom-coffee-image img {
+    border-radius: 40px;
+}
+
+.bottom-people-text {
+
 }
