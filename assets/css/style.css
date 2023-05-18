@@ -183,7 +183,7 @@ h1, h2 {
 /* footer */
 
 footer {
-    margin-top: 60%;
+    margin-top: 80%;
     border-top-width: 2px;
     border-top-style: solid;
     border-top-color: #FFF8F0;
@@ -332,22 +332,33 @@ footer > p {
 
 #bottom-people-cafe h1 {
     font-size: 45px;
-    margin-left: 30%;
+    margin-left: 15%;
     padding-top: 20px;
     padding-bottom: 20px;
 }
 
-.bottom-coffee-image {
-    float: left;
+.bottom-coffee-image img {
+    float: inline-start;
+    padding-left: 20px;
+    margin-left: 11%;
+}
+
+.bottom-pastry-image img{
     margin-left: 20px;
-    padding-right: 30px;
-    padding-bottom: auto;
 }
 
 .bottom-coffee-image img {
     border-radius: 40px;
 }
 
-.bottom-people-text {
+.bottom-pastry-image img {
+    border-radius: 40px;
+}
 
+.bottom-people-text {
+    text-align: center;
+   margin-right: 30%;
+   padding-top: 30px;
+   font-size: 19.5px;
+   width: 40%;
 }
