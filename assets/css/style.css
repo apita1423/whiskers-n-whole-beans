@@ -365,3 +365,18 @@ footer > p {
    font-size: 19.5px;
    width: 40%;
 }
+
+/* cats hero image */
+
+#cats-hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#cats-hero-image {
+    height: 600px;
+    width: 100%;
+    background: url(../images/cat-hero-image.webp) no-repeat center center;
+    margin-bottom: 30%;
+}
