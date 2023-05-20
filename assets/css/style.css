@@ -15,7 +15,7 @@ body {
     
 }
 
-/* Heading and Logo */
+/* heading and logo */
 
 h1, h2 {
     font-family: Oswald, sans-serif;
@@ -30,7 +30,7 @@ h1, h2 {
     margin-left: 20px;
 }
 
-/* Navigation Links */
+/* navigation links */
 
 #menu {
     font-size: 110%;
@@ -61,7 +61,7 @@ h1, h2 {
     border-bottom: 1px solid #402E32;
 }
 
-/* Home Hero Image */
+/* home hero image */
 
 #hero-outer {
     height: 600px;
@@ -335,7 +335,7 @@ footer > p {
 
 #bottom-people-cafe h1 {
     font-size: 45px;
-    margin-left: 15%;
+    margin-left: 25%;
     padding-top: 20px;
     padding-bottom: 20px;
 }
@@ -359,8 +359,8 @@ footer > p {
 }
 
 .bottom-people-text {
-    text-align: center;
-   margin-right: 30%;
+   text-align: center;
+   margin-left: 30%;
    padding-top: 30px;
    font-size: 19.5px;
    width: 40%;
