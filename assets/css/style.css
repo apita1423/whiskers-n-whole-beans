@@ -380,3 +380,30 @@ footer > p {
     background: url(../images/cat-hero-image.webp) no-repeat center center;
     margin-bottom: 30%;
 }
+
+/* cats gallery */
+
+#the-cats-gallery {
+    height: 600px;
+}
+
+#the-cats h1 {
+    text-align: center;
+    font-size: 250%;
+    color: #47342F;
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+
+/* cat photos */
+
+#cat-photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+}
+
+#cat-photos > img {
+    width: 100%;
+}
