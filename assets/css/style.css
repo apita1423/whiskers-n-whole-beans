@@ -10,9 +10,8 @@ body {
     font-family: Lato, sans-serif;
     font-weight: 300;
     display: flex;
-    min-height: 100vh;
     flex-direction: column;
-    justify-content: flex-start;
+    min-height: 100vh;
     color: #402E32;
     background-color: #FFF8F0;
     
@@ -82,9 +81,6 @@ h1, h2 {
 
 /* home top whisker */
 
-#main-idea {
-    height: 600px;
-}
 
 #top-whisker h1 {
     text-align: center;
@@ -95,13 +91,7 @@ h1, h2 {
 }
 
 .top-cat-image {
-    max-width: 100%;
-    max-height: 100%;
     margin-left: 25%;
-}
-
-.top-cat-image img {
-    border-radius: 5%;
 }
 
 .top-cat-image p {
@@ -128,14 +118,9 @@ h1, h2 {
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
-    max-width: 100%;
-    max-height: 100%;
     margin-left: 15%;
 }
 
-.middle-cat-image img {
-    border-radius: 5%;
-}
 
 .middle-cat-image p {
     margin-right: 20%;
@@ -163,13 +148,7 @@ h1, h2 {
     justify-content: flex-end;
     align-items: flex-start;
     flex-direction: row-reverse;
-    max-width: 100%;
-    max-height: 100%;
     margin-right: 20%;
-}
-
-.bottom-cat-image img {
-    border-radius: 5%;
 }
 
 .bottom-cat-image p {
@@ -189,6 +168,7 @@ h1, h2 {
 footer {
     margin-top: auto;
 }
+
 
 .social-networks {
     text-align: center;
@@ -233,7 +213,8 @@ footer > p {
 /* people storytime */
 
 #story-time {
-    height: 600px;
+    padding-left: 120px;
+    padding-right: 120px;
 }
 
 #mo-eva h1 {
@@ -258,7 +239,6 @@ footer > p {
     width: 700px;
     padding-top: 20px;
     margin-right: 70px;
-    border-radius: 20%;
 }
 
 .mo-eva-image h2 {
@@ -296,10 +276,6 @@ footer > p {
     margin-right: 10%;
 }
 
-.middle-rescue-image img {
-    border-radius: 20%;
-}
-
 .middle-rescue-text {
     margin-left: 200px;
     padding-top: 50px;
@@ -316,19 +292,23 @@ footer > p {
     padding-bottom: 20px;
 }
 
+.coffee-image-container {
+    float: left;
+}
+
+.pastry-coffee-container {
+    float: right;
+}
+
 .bottom-coffee-image img {
-    padding-left: 20px;
-    margin-left: 11%;
-    border-radius: 40px;
-    width: 30%;
+    width: auto;
+    padding-right: 40px;
 }
 
 .bottom-pastry-image img{
-    margin-left: 20px;
-    border-radius: 40px;
-    width: 30%;
+    width: auto;
+    padding-left: 40px;
 }
-
 
 .bottom-people-text {
    text-align: center;
