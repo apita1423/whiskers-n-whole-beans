@@ -385,6 +385,51 @@ footer > p {
     margin-top: 20px;
 }
 
+.book-here-form {
+    margin: 150px 10% 0 0;
+    color: #fff;
+    background-color: #cec1bd;
+    max-width: 400px;
+    position: absolute;
+    left: 10%;
+    padding: 30px;
+}
+
+.book-here-form > h2 {
+    color:#402E32;
+    margin-bottom: 20px;
+}
+
+.text-input {
+    background: transparent;
+    color: #402E32;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #402E32;
+    border-radius: 2px;
+}
+
+.text-input:hover {
+    border-color: #402E32;
+}
+
+.book-here-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #FFF8F0;
+    color:#402E32;
+    display: block;
+}
+
+.book-here-button {
+    background-color: #402E32;
+    color: #FFF8F0;
+}
+
 /* media queries */
 
 /* For larger to medium screens size from 1200px wide and down */
