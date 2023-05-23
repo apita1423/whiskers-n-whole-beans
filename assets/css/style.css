@@ -174,7 +174,7 @@ footer {
     text-align: center;
     color: #47342F;
     margin-right: 20px;
-    padding-top: 9%;
+    padding-top: 30px;
 }
 
 .social-networks > li {
@@ -372,6 +372,17 @@ footer > p {
     padding-bottom: 60%;
     font-size: 20px;
     width: 40%;
+}
+
+/* booking here image */
+
+.book-here-section {
+    clear: left;
+    background: url(../images/booking-background.webp);
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+    margin-top: 20px;
 }
 
 /* media queries */
