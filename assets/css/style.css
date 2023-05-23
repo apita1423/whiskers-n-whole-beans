@@ -286,8 +286,8 @@ footer > p {
 /* people bottom cafe */
 
 #bottom-people-cafe h1 {
-    font-size: 45px;
-    margin-left: 25%;
+    font-size: 50px;
+    margin-left: 120px;
     padding-top: 2%;
     padding-bottom: 20px;
 }
@@ -302,12 +302,14 @@ footer > p {
 
 .bottom-coffee-image img {
     width: auto;
-    padding-right: 40px;
+    padding-left: 60px;
+    margin-right: 60px;
+    margin-left: 60px;
 }
 
 .bottom-pastry-image img{
     width: auto;
-    padding-left: 40px;
+    margin-right: 40px;
 }
 
 .bottom-people-text {
