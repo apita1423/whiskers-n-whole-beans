@@ -76,7 +76,7 @@ h1, h2 {
     height: 600px;
     width: 100%;
     background: url(../images/home-hero-one.webp) no-repeat center center;
-    margin-bottom: 30%;
+    margin-top: 20px;
 }
 
 /* home top whisker */
@@ -86,15 +86,15 @@ h1, h2 {
     text-align: center;
     font-size: 200%;
     color: #47342F;
-    margin-top: 20px;
-    padding-bottom: 10px;
+    margin-top: 30px;
+    padding-bottom: 30px;
 }
 
 .top-cat-image {
-    margin-left: 25%;
+    margin-left: 235px;
 }
 
-.top-cat-image p {
+.top-cat-image p  {
     margin-right: 10px;
     padding-right: 20%;
     padding-top: 30px;
@@ -103,6 +103,12 @@ h1, h2 {
 .top-cat-text {
     font-size: 22px;
     float: left;
+}
+
+.top-cat-text h3 {
+    font-size: 30px;
+    padding-right: 20px;
+    padding-top: 50px;
 }
 
 /* home middle whisker */
@@ -389,10 +395,10 @@ footer > p {
     margin: 150px 10% 0 0;
     color: #fff;
     background-color: #cec1bd;
-    max-width: 400px;
+    max-width: 500px;
     position: absolute;
     left: 10%;
-    padding: 30px;
+    padding: 40px;
 }
 
 .book-here-form > h2 {
@@ -407,7 +413,7 @@ footer > p {
     height: 25px;
     margin: 5px 0 20px 0;
     border: 1px solid #402E32;
-    border-radius: 2px;
+    border-radius: 15px;
 }
 
 .text-input:hover {
