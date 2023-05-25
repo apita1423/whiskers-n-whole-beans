@@ -91,13 +91,14 @@ h1, h2 {
 }
 
 .top-cat-image {
-    margin-left: 235px;
+    margin-left: 250px;
 }
 
 .top-cat-image p  {
     margin-right: 10px;
-    padding-right: 20%;
+    padding-right: 30%;
     padding-top: 30px;
+    padding-left: 50px;
 }
 
 .top-cat-text {
@@ -114,10 +115,10 @@ h1, h2 {
 /* home middle whisker */
 
 #middle-whisker h1 {
-    margin-left: 45%;
-    font-size: 200%;
+    font-size: 300%;
+    margin-left: 500px;
     margin-top: 30px;
-    padding-bottom: 25px;
+    padding-bottom: 40px;
 }
 
 .middle-cat-image {
