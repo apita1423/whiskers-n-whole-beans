@@ -411,7 +411,7 @@ footer > p {
 }
 
 .book-here-form {
-    margin: 150px 10% 0 0;
+    margin: 100px 10% 0 0;
     color: #fff;
     background-color: #cec1bd;
     max-width: 500px;
@@ -454,6 +454,16 @@ footer > p {
     background-color: #402E32;
     color: #FFF8F0;
 }
+
+.hours-operation {
+    margin-top: 50px
+}
+
+.our-location {
+    margin-top: 50px;
+}
+
+
 
 /* media queries */
 
