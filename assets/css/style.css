@@ -29,6 +29,7 @@ h1, h2, h3 {
 
 nav h1 {
     padding-left: 75px;
+    padding-top: 5px;
     font-size: 35px;
 }
 
@@ -36,34 +37,36 @@ nav h1 {
 
 /* navigation links */
 
-#logo {
-    float: inline-start;
-    width: 60px;
+.logo {
+    width: 75px;
+    display: inline-block;
+    float: left;
 }
 
 nav ul {
     text-align: end;
 }
 
-#menu {
+.menu {
     font-size: 110%;
     letter-spacing: 4px;
     text-align: center;
+    
 }
 
-
-#menu li {
+.menu li {
     float: right;
     list-style-type: none;
     margin-right: 30px;
+    padding-top: 20px;
 }
 
-#menu a {
+.menu a {
     text-decoration: none;
     color: inherit;
 }
 
-#menu a:hover {
+.menu a:hover {
     border-bottom: 1px solid #402E32;
 }
 
