@@ -39,8 +39,7 @@ nav h1 {
 
 .logo {
     width: 75px;
-    display: inline-block;
-    float: left;
+    float: inline-start; 
 }
 
 nav ul {
@@ -456,11 +455,22 @@ footer > p {
 }
 
 .hours-operation {
-    margin-top: 50px
+    margin-top: 620px;
+    margin-left: 350px;
+    border: 3px solid #FFF8F0;
+    width: 15%;
+    border-radius: 10px;
+    background-color: #FFF8F0;
+    
 }
 
 .our-location {
     margin-top: 50px;
+    margin-left: 350px;
+    border: 3px solid #FFF8F0;
+    width: 15%;
+    border-radius: 10px;
+    background-color: #FFF8F0;
 }
 
 
