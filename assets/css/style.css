@@ -100,29 +100,25 @@ nav ul {
 }
 
 .top-cat-image {
-    margin-left: 250px;
+    display: flex;
+    flex-direction: row-reverse;
+    padding-right: 300px;
 }
 
-.top-cat-image img {
-    border-radius: 10px;
-}
-
+ 
 .top-cat-image p  {
     margin-right: 10px;
-    padding-right: 30%;
-    padding-top: 30px;
-    padding-left: 50px;
+    padding: 20px 50px 0 70px;
 }
 
 .top-cat-text {
     font-size: 22px;
-    float: left;
+    margin-left: 300px;
 }
 
 .top-cat-text h3 {
     font-size: 30px;
     padding-right: 20px;
-    padding-top: 50px;
 }
 
 /* home middle whisker */
@@ -259,20 +255,19 @@ footer > p {
 .mo-eva-image img {
     height: auto;
     width: 700px;
-    padding-top: 20px;
+    padding-top: 25px;
     margin-right: 70px;
 }
 
 .mo-eva-image h2 {
-    padding-top: 2%;
-    margin-left: 5%;
+    padding-top: 20px;
 }
 
 .mo-eva-image p {
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 10px;
+    margin-right: 10px;
     padding-right: 50px;
-    padding-top: 25px;
+    padding-top: 20px;
 }
 
 .mo-eva-text {
@@ -283,7 +278,7 @@ footer > p {
 
 #middle-rescue h1 {
     font-size: 45px;
-    margin-left: 394px;
+    margin-left: 320px;
     padding-top: 100px;
     padding-bottom: 20px;
 }
@@ -300,7 +295,7 @@ footer > p {
 
 .middle-rescue-text {
     margin-left: 120px;
-    padding-top: 80px;
+    padding-top: 50px;
     padding-right: 20px;
     font-size: 19.5px;
 }
@@ -411,12 +406,13 @@ footer > p {
 
 .book-here-form {
     margin: 100px 10% 0 0;
-    color: #fff;
+    color: #47342F;
     background-color: #cec1bd;
     max-width: 500px;
     position: absolute;
     left: 10%;
     padding: 40px;
+    border-radius: 15px;
 }
 
 .book-here-form > h2 {
@@ -452,11 +448,12 @@ footer > p {
 .book-here-button {
     background-color: #402E32;
     color: #FFF8F0;
+    border-radius: 10px;
 }
 
 .hours-operation {
-    margin-top: 620px;
-    margin-left: 350px;
+    margin-top: 590px;
+    margin-left: 415px;
     border: 3px solid #FFF8F0;
     width: 15%;
     border-radius: 10px;
@@ -464,13 +461,33 @@ footer > p {
     
 }
 
+.hours-operation h3 {
+    text-align: center;
+    font-size: 22px;
+}
+
+.hours-operation p {
+    text-align: center;
+    font-size: 17px;
+}
+
 .our-location {
-    margin-top: 50px;
-    margin-left: 350px;
+    margin-top: 20px;
+    margin-left: 415px;
     border: 3px solid #FFF8F0;
     width: 15%;
     border-radius: 10px;
     background-color: #FFF8F0;
+}
+
+.our-location h3 {
+    text-align: center;
+    font-size: 22px;
+}
+
+.our-location p {
+    text-align: center;
+    font-size: 17px;
 }
 
 
