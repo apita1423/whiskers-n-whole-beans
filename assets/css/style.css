@@ -34,10 +34,15 @@ nav {
     justify-content: space-between;
 }
 
+nav a {
+    text-decoration: none;
+}
+
 nav h1 {
     padding-left: 9px;
     padding-top: 12px;
     font-size: 35px;
+    
 }
 
 /* navigation links */
