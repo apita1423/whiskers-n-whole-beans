@@ -18,7 +18,9 @@ body {
     
 }
 
-
+img {
+    max-width: 100%;
+}
 /* heading and logo */
 
 h1, h2, h3 {
@@ -74,14 +76,12 @@ nav ul {
 /* home hero image */
 
 #hero-outer {
-    height: 600px;
-    width: 100%;
     overflow: hidden;
 }
 
 #hero-image {
-    height: 600px;
-    width: 100%;
+    min-height: 600px;
+    max-width: none;
     background: url(../images/home-hero-one.webp) no-repeat center center;
     margin-top: 20px;
 }
@@ -210,14 +210,12 @@ footer > p {
 /* people hero image */
 
 #people-hero-outer {
-    height: 600px;
-    width: 100%;
     overflow: hidden;
 }
 
 #people-hero-image {
-    height: 600px;
-    width: 100%;
+    min-height: 600px;
+    max-width: none;
     background: url(../images/people-hero-image.webp) no-repeat center center;
     margin-top: 20px;
 }
@@ -248,7 +246,7 @@ footer > p {
 
 .mo-eva-image img {
     height: auto;
-    width: 700px;
+    max-width: 700px;
     padding-top: 25px;
     margin-right: 70px;
 }
@@ -312,14 +310,14 @@ footer > p {
 }
 
 .bottom-coffee-image img {
-    width: auto;
+    max-width: auto;
     padding-left: 60px;
     margin-right: 60px;
     margin-left: 60px;
 }
 
 .bottom-pastry-image img{
-    width: auto;
+    max-width: auto;
     margin-right: 40px;
 }
 
@@ -329,20 +327,18 @@ footer > p {
    padding-top: 30px;
    padding-bottom: 100px;
    font-size: 21px;
-   width: 40%;
+   max-width: 40%;
 }
 
 /* cats hero image */
 
 #cats-hero-outer {
-    height: 600px;
-    width: 100%;
     overflow: hidden;
 }
 
 #cats-hero-image {
-    height: 600px;
-    width: 100%;
+    min-height: 600px;
+    max-width: none;
     background: url(../images/cat-hero-image.webp) no-repeat center center;
     margin-bottom: 20px;
     margin-top: 20px;
@@ -374,7 +370,7 @@ footer > p {
 }
 
 #cat-photos > img {
-    width: 100%;
+    max-width: 100%;
     
 }
 
@@ -384,7 +380,7 @@ footer > p {
     margin-left: 550px;
     padding-top: 5px;
     font-size: 20px;
-    width: 40%;
+    max-width: 40%;
 }
 
 /* booking here image */
@@ -394,7 +390,7 @@ footer > p {
     background: url(../images/booking-background.webp);
     background-size: cover;
     background-position: center;
-    height: 900px;
+    min-height: 900px;
     margin-top: 20px;
 }
 
@@ -418,8 +414,8 @@ footer > p {
 .text-input {
     background: transparent;
     color: #402E32;
-    width: 100%;
-    height: 25px;
+    min-width: 100%;
+    min-height: 25px;
     margin-top: 5px;
     margin-bottom: 20px;
     border: 1px solid #402E32;
@@ -454,7 +450,7 @@ footer > p {
     margin-top: 620px;
     margin-left: 328px;
     border: 3px solid #FFF8F0;
-    width: 15%;
+    max-width: 15%;
     border-radius: 10px;
     background-color: #FFF8F0;
     
@@ -474,7 +470,7 @@ footer > p {
     margin-top: 20px;
     margin-left: 328px;
     border: 3px solid #FFF8F0;
-    width: 15%;
+    max-width: 15%;
     border-radius: 10px;
     background-color: #FFF8F0;
 }
@@ -489,12 +485,3 @@ footer > p {
     font-size: 17px;
 }
 
-
-
-/* media queries */
-
-/* For larger to medium screens size from 1200px wide and down */
-
-@media screen and (max-width: 1200px) {
-    
-}
