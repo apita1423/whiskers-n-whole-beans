@@ -496,3 +496,17 @@ footer > p {
     font-size: 17px;
 }
 
+/* Thank You Form */
+
+#thankyou-page {
+    text-align: center;
+    padding-top: 60px;
+}
+
+#thankyou-text h2 {
+    font-size: 30px;
+}
+
+#thankyou-text p {
+    font-size: 22px;
+}
