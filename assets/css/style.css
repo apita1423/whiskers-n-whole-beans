@@ -18,6 +18,8 @@ body {
     
 }
 
+
+
 img {
     max-width: 100%;
 }
@@ -247,7 +249,7 @@ footer > p {
 
 .mo-eva-image {
     display: flex;
-    align-items: flex-start;
+    flex-wrap: wrap-reverse;
     justify-content: center;
     max-width: 100%;
     max-height: 100%;
