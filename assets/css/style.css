@@ -23,7 +23,6 @@ body {
 
 h1, h2, h3 {
     font-family: Shadows Into Light Two, sans-serif;
-    text-transform: uppercase;
     letter-spacing: 4px;
     color:#402E32;
 }
@@ -34,13 +33,11 @@ nav h1 {
     font-size: 35px;
 }
 
-
-
 /* navigation links */
 
 .logo {
     width: 75px;
-    float: inline-start; 
+    float: inline-start;
 }
 
 nav ul {
@@ -48,7 +45,7 @@ nav ul {
 }
 
 .menu {
-    font-size: 125%;
+    font-size: 120%;
     letter-spacing: 4px;
     text-align: center;
     
@@ -100,18 +97,6 @@ nav ul {
     padding-bottom: 45px;
 }
 
-.top-cat-image {
-    display: flex;
-    flex-direction: row-reverse;
-    padding-right: 300px;
-}
-
- 
-.top-cat-image p  {
-    margin-right: 10px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-}
 
 .top-cat-text {
     font-size: 22px;
@@ -120,15 +105,24 @@ nav ul {
 
 .top-cat-text h3 {
     font-size: 30px;
-    padding-right: 20px;
+    text-align: center;
+    padding-right: 320px;
+}
+
+.top-cat-text p {
+    text-align: center;
+    margin-right: 315px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 /* home middle whisker */
 
 #middle-whisker h1 {
     font-size: 300%;
-    margin: 30px 0 0 290px;
+    margin: 30px 0 0 2px;
     padding-bottom: 40px;
+    text-align: center;
 }
 
 .middle-cat-image {
@@ -154,8 +148,8 @@ nav ul {
 /* home bottom whisker */
 
 #bottom-whisker h1 {
-    font-size: 200%;
-    margin-left: 370px;
+    font-size: 220%;
+    margin-left: 550px;
     margin-top: 70px;
     padding-bottom: 40px;
 }
