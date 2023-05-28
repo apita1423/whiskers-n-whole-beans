@@ -6,7 +6,6 @@
     border: none;
 }
 
-
 body {
     font-family: Pangolin, sans-serif;
     font-weight: 300;
@@ -14,10 +13,8 @@ body {
     flex-direction: column;
     min-height: 100vh;
     color: #402E32;
-    background-color: #FFF8F0;
-    
+    background-color: #FFF8F0; 
 }
-
 
 img {
     max-width: 100%;
@@ -106,7 +103,6 @@ nav ul {
 }
 
 /* home top whisker */
-
 
 .top-cat-text {
     font-size: 22px;
