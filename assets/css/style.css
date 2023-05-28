@@ -702,5 +702,37 @@ footer > p {
         margin-left: 130px;
         max-width: 465px;
     }
+}
 
+/* For tablet screens from 768px wide and down */
+@media screen and (max-width: 1280px) {
+
+/* Home Media Query */
+
+    #hero-outer h1 {
+        font-size: 180%;
+    }
+
+    .top-cat-text {
+        margin-left: 0;
+    }
+
+    .top-cat-text h3 {
+        padding: 0;
+    }
+
+    .top-cat-text p {
+        margin-right: 0;
+    }
+
+    .middle-cat-image {
+        flex-direction: column;
+    }
+
+    .middle-cat-text {
+        padding-left: 0;
+        float: none;
+        margin-right: 0;
+        margin-top: 42px;
+    }
 }
