@@ -310,9 +310,11 @@ footer > p {
     margin-left: 50px;
 }
 
-.pastry-image-container {
-    float: right;
-    margin-right: 100px; 
+.bottom-coffee-image {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-left: 15%;
 }
 
 .bottom-coffee-image img {
@@ -320,11 +322,6 @@ footer > p {
     padding-left: 60px;
     margin-right: 60px;
     margin-left: 60px;
-}
-
-.bottom-pastry-image img{
-    max-width: 100%;
-    margin-right: 40px;
 }
 
 .bottom-people-text {
@@ -401,6 +398,10 @@ footer > p {
     padding-top: 25px;
     font-size: 20px;
     max-width: 40%;
+}
+
+.cats-text p {
+    padding-right: 20px;
 }
 
 /* booking here image */
@@ -559,11 +560,6 @@ footer > p {
         width: 600px;
     }
 
-    .pastry-image-container {
-        margin-right: 10px;
-        width: 600px;
-    }
-
 /* Cat Media Query */
 
     .cats-text {
@@ -585,4 +581,96 @@ footer > p {
     footer {
         margin-top: 100px;
     }
+}
 
+/* For medium screens from 1280px wide and down */
+@media screen and (max-width: 1280px) {
+
+/* Home Media Query */
+
+    #bottom-whisker h1 {
+        margin-left: 510px;
+    }
+
+    .middle-cat-image {
+        margin-left: 60px;
+    }
+
+    .middle-cat-image p {
+        margin-right: 30px;
+    }
+
+    .bottom-cat-image {
+        margin-right: 30px;
+     }
+
+    .bottom-cat-image p {
+        padding-top: 25px;
+        margin-left: 20px;
+        padding-left: 70px;
+     }
+
+/* People Media Query */
+
+     #people-hero-outer h1 {
+        margin-top: 30px;
+     }
+
+     #middle-rescue h1 {
+        margin-left: 380px;
+        padding-top: 60px;
+     }
+
+     .mo-eva-image p {
+        margin-left: 0;
+     }
+     .middle-rescue-image img {
+        margin-right: 30px
+     }
+
+    
+/* Cat Media Query */
+
+     #cats-hero-outer h1 {
+        font-size: 220%;
+     }
+
+     #the-cats h2 {
+        font-size: 210%;
+     }
+
+     #the-cats-gallery {
+        height: 495px;
+     }
+
+    .cats-text {
+        margin-left: 280px;
+        margin-right: 230;
+    }
+
+    .cats-text p {
+        width: 720px;
+    }
+
+/* Book Here Media Query */
+
+    .book-here-section {
+        min-height: 960px;
+    }
+
+    .book-here-form {
+        width: 395px;
+    }
+
+    .hours-operation {
+        margin-left: 130px;
+        max-width: 465px;
+        margin-top: 630px;
+    }
+
+    .our-location {
+        margin-left: 130px;
+        max-width: 465px;
+    }
+
+}
