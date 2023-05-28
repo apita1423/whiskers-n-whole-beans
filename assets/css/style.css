@@ -318,7 +318,7 @@ footer > p {
 }
 
 .bottom-coffee-image img {
-    max-width: 100;
+    max-width: 100%;
     padding-left: 60px;
     margin-right: 60px;
     margin-left: 60px;
