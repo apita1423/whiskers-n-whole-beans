@@ -274,7 +274,7 @@ footer > p {
 
 #middle-rescue h1 {
     font-size: 45px;
-    margin-left: 120px;
+    margin-left: 400px;
     padding-top: 100px;
     padding-bottom: 20px;
 }
@@ -284,8 +284,8 @@ footer > p {
     align-items: flex-start;
     justify-content: flex-start;
     flex-direction: row-reverse;
-    max-width: 100%;
-    max-height: 100%;
+    min-width: 100%;
+    min-height: 100%;
     margin-right: 35px;
 }
 
@@ -300,39 +300,28 @@ footer > p {
 
 #bottom-people-cafe h1 {
     font-size: 50px;
-    margin-left: 160px;
+    margin-left: 430px;
     padding-top: 2%;
     padding-bottom: 20px;
-}
-
-.coffee-image-container {
-    float: left;
-    margin-left: 50px;
 }
 
 .bottom-coffee-image {
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
-    margin-left: 15%;
+    margin-left: 200px;
 }
 
-.bottom-coffee-image img {
-    max-width: 100%;
-    padding-left: 60px;
-    margin-right: 60px;
-    margin-left: 60px;
+.bottom-coffee-image p {
+    margin-right: 20%;
+    padding-right: 20%;
+    padding-top: 20px;
 }
 
-.bottom-people-text {
-    margin-top: 400px;
-}
-
-.bottom-people-text p {
-    text-align: center;
-    margin-left: 500px;
-    font-size: 21px;
-    max-width: 40%;
+.bottom-people-text p{
+    font-size: 22px;
+    padding-left: 30px;
+    float: right;
 }
 
 /* cats hero image */
@@ -474,7 +463,6 @@ footer > p {
     max-width: 500px;
     border-radius: 10px;
     background-color: #FFF8F0;
-    
 }
 
 .hours-operation h3 {
@@ -536,8 +524,18 @@ footer > p {
         padding: 10px;
     }
 
+    .bottom-cat-text {
+        padding-right: 30px;
+    }
+
+    .bottom-cat-image {
+        margin-right: 120px;
+    }
+
     .bottom-cat-image p {
-        padding-top: 15px;
+        padding-left: 10px;
+        padding-top: 10px;
+        margin-top: 10px;
     }
 
 /* People Media Query */
@@ -547,19 +545,22 @@ footer > p {
         padding-top: 55px;
     }
 
-    .bottom-people-text p {
-        margin-left: 425px;
-    }
-
     .middle-rescue-text {
         padding-top: 15px;
     }
 
-    .coffee-image-container {
-        margin-left: 0;
-        width: 600px;
+    .bottom-people-text p {
+        margin-left: 425px;
     }
 
+    .bottom-coffee-image {
+        margin-left: 120px;
+    }
+
+    .bottom-people-text p {
+        margin-right: 1px;
+        margin-left: 0;
+    }
 /* Cat Media Query */
 
     .cats-text {
@@ -616,6 +617,10 @@ footer > p {
         margin-top: 30px;
      }
 
+     #bottom-people-cafe h1 {
+        margin-left: 2px;
+     }
+
      #middle-rescue h1 {
         margin-left: 380px;
         padding-top: 60px;
@@ -624,11 +629,36 @@ footer > p {
      .mo-eva-image p {
         margin-left: 0;
      }
+
+     .middle-rescue-image {
+        margin-right: 0;
+        min-width: none;
+        min-height: none;
+
+     }
      .middle-rescue-image img {
-        margin-right: 30px
+        margin-right: 0;
+        padding-top: 45px;
      }
 
-    
+     .middle-rescue-text {
+        margin-left: 0;
+     }
+
+     .bottom-coffee-image {
+        margin-left: 1px;
+     }
+
+     .bottom-coffee-image img {
+        width: 600px;
+     }
+
+     .bottom-people-text p{
+        padding-top: 10px;
+        padding-right: 30px;
+        margin-left: 0;
+     }
+
 /* Cat Media Query */
 
      #cats-hero-outer h1 {
