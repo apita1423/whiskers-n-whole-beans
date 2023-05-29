@@ -601,6 +601,10 @@ footer > p {
         margin-right: 30px;
     }
 
+    .middle-cat-text {
+        margin-top: 0;
+    }
+
     .bottom-cat-image {
         margin-right: 30px;
      }
@@ -705,12 +709,17 @@ footer > p {
 }
 
 /* For tablet screens from 768px wide and down */
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 768px) {
 
 /* Home Media Query */
 
     #hero-outer h1 {
         font-size: 180%;
+    }
+
+    #bottom-whisker h1 {
+        margin-left: 260px;
+        margin-top: 10px;
     }
 
     .top-cat-text {
@@ -734,5 +743,50 @@ footer > p {
         float: none;
         margin-right: 0;
         margin-top: 42px;
+    }
+
+    .bottom-cat-image img {
+        margin-left: 20px;
+    }
+
+    .bottom-cat-image {
+        margin-right: 0;
+        flex-direction: column;
+        width: 600px;
+        margin-left: 65px;
+    }
+
+/* People Media Query */
+
+    #people-hero-outer h1 {
+        font-size: 35px;
+    }
+
+    #bottom-people-cafe h1 {
+        font-size: 45px;
+        margin-left: 120px;
+    }
+
+    #middle-rescue h1 {
+        margin-left: 95px;
+        padding-top: 20px;
+    }
+
+    .middle-rescue-image {
+        flex-direction: column;
+    }
+
+    .middle-rescue-image img {
+        padding-top: 0;
+    }
+
+    .bottom-coffee-image {
+        flex-direction: column;
+    }
+
+    .mo-eva-image {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
     }
 }
