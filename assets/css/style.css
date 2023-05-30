@@ -657,6 +657,7 @@ footer>p {
 
     .middle-rescue-text {
         margin-left: 0;
+        padding-top: 50px;
     }
 
     .bottom-coffee-image {
@@ -770,7 +771,7 @@ footer>p {
     }
 
     .bottom-cat-image img {
-        margin-left: 20px;
+        margin-left: 0;
     }
 
     .bottom-cat-image {
@@ -933,7 +934,7 @@ footer>p {
     }
 
     #bottom-whisker h1 {
-        margin-left: 95px;
+        margin-left: 85px;
         font-size: 35px;
     }
 
@@ -958,6 +959,10 @@ footer>p {
     .middle-cat-text p {
         padding-left: 45px;
         font-size: 20px;
+    }
+
+    .bottom-cat-image {
+        padding-bottom: 0;
     }
 
     /* People Media Query */
