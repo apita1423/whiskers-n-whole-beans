@@ -13,15 +13,17 @@ body {
     flex-direction: column;
     min-height: 100vh;
     color: #402E32;
-    background-color: #FFF8F0; 
+    background-color: #FFF8F0;
 }
 
 /* heading and logo */
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     font-family: "Shadows Into Light Two", sans-serif;
     letter-spacing: 4px;
-    color:#402E32;
+    color: #402E32;
 }
 
 nav {
@@ -37,7 +39,7 @@ nav h1 {
     padding-left: 9px;
     padding-top: 12px;
     font-size: 35px;
-    
+
 }
 
 /* navigation links */
@@ -190,7 +192,7 @@ footer {
     padding-top: 30px;
 }
 
-.social-networks > li {
+.social-networks>li {
     display: inline;
     color: #FFF8F0;
 }
@@ -202,7 +204,7 @@ footer {
     color: #FFF8F0;
 }
 
-footer > p {
+footer>p {
     text-align: center;
     font-size: 20px;
     color: #FFF8F0;
@@ -314,7 +316,7 @@ footer > p {
     padding-top: 20px;
 }
 
-.bottom-people-text p{
+.bottom-people-text p {
     font-size: 22px;
     padding-left: 30px;
     float: right;
@@ -372,7 +374,7 @@ footer > p {
     padding-bottom: 30px;
 }
 
-#cat-photos > img {
+#cat-photos>img {
     max-width: 100%;
 }
 
@@ -412,8 +414,8 @@ footer > p {
     border-radius: 15px;
 }
 
-.book-here-form > h2 {
-    color:#402E32;
+.book-here-form>h2 {
+    color: #402E32;
     margin-bottom: 20px;
 }
 
@@ -442,7 +444,7 @@ footer > p {
     text-align: center;
     font-size: 100%;
     background-color: #FFF8F0;
-    color:#402E32;
+    color: #402E32;
     display: block;
 }
 
@@ -510,7 +512,7 @@ footer > p {
 /* For screens from 1600px wide and down */
 @media screen and (max-width: 1600px) {
 
-/* Home Media Query */
+    /* Home Media Query */
 
     #bottom-whisker h1 {
         margin-left: 690px;
@@ -534,11 +536,15 @@ footer > p {
         margin-top: 10px;
     }
 
-/* People Media Query */
+    /* People Media Query */
 
     #bottom-people-cafe h1 {
         margin-left: 116px;
         padding-top: 55px;
+    }
+
+    #middle-rescue h1 {
+        margin-left: 120px;
     }
 
     .middle-rescue-text {
@@ -557,13 +563,14 @@ footer > p {
         margin-right: 1px;
         margin-left: 0;
     }
-/* Cat Media Query */
+
+    /* Cat Media Query */
 
     .cats-text {
         margin-left: 485px;
     }
 
-/* Book Here Media Query */
+    /* Book Here Media Query */
 
     .hours-operation {
         margin-left: 200px;
@@ -573,7 +580,7 @@ footer > p {
         margin-left: 200px;
     }
 
-/* Thank You Media Query */
+    /* Thank You Media Query */
 
     footer {
         margin-top: 100px;
@@ -583,7 +590,7 @@ footer > p {
 /* For screens from 1280px wide and down */
 @media screen and (max-width: 1280px) {
 
-/* Home Media Query */
+    /* Home Media Query */
 
     #bottom-whisker h1 {
         margin-left: 510px;
@@ -603,81 +610,82 @@ footer > p {
 
     .bottom-cat-image {
         margin-right: 30px;
-     }
+    }
 
     .bottom-cat-image p {
         padding-top: 25px;
         margin-left: 20px;
         padding-left: 70px;
-     }
+    }
 
-/* People Media Query */
+    /* People Media Query */
 
-     #people-hero-image {
+    #people-hero-image {
         background-image: url(../images/people-hero-image.webp);
         background-position: 25% 55%;
         background-size: cover;
-     }
+    }
 
-     #people-hero-outer h1 {
+    #people-hero-outer h1 {
         margin-top: 30px;
-     }
+    }
 
-     #bottom-people-cafe h1 {
+    #bottom-people-cafe h1 {
         margin-left: 2px;
-     }
+    }
 
-     #middle-rescue h1 {
+    #middle-rescue h1 {
         margin-left: 380px;
         padding-top: 60px;
-     }
+    }
 
-     .mo-eva-image p {
+    .mo-eva-image p {
         margin-left: 0;
-     }
+    }
 
-     .middle-rescue-image {
+    .middle-rescue-image {
         margin-right: 0;
         min-width: none;
         min-height: none;
 
-     }
-     .middle-rescue-image img {
+    }
+
+    .middle-rescue-image img {
         margin-right: 0;
         padding-top: 45px;
-     }
+    }
 
-     .middle-rescue-text {
+    .middle-rescue-text {
         margin-left: 0;
-     }
+    }
 
-     .bottom-coffee-image {
+    .bottom-coffee-image {
         margin-left: 1px;
-     }
+    }
 
-     .bottom-coffee-image img {
+    .bottom-coffee-image img {
         width: 600px;
-     }
+    }
 
-     .bottom-people-text p{
+    .bottom-people-text p {
         padding-top: 10px;
         padding-right: 30px;
         margin-left: 0;
-     }
+    }
 
-/* Cat Media Query */
+    /* Cat Media Query */
 
-     #cats-hero-outer h1 {
+    #cats-hero-outer h1 {
         font-size: 220%;
-     }
+    }
 
-     #the-cats h2 {
+    #the-cats h2 {
         font-size: 210%;
-     }
+    }
 
-     #the-cats-gallery {
+    #the-cats-gallery {
         height: 495px;
-     }
+    }
 
     .cats-text {
         margin-left: 280px;
@@ -688,7 +696,7 @@ footer > p {
         width: 720px;
     }
 
-/* Book Here Media Query */
+    /* Book Here Media Query */
 
     .book-here-section {
         min-height: 960px;
@@ -713,7 +721,7 @@ footer > p {
 /* For screens from 768px wide and down */
 @media screen and (max-width: 768px) {
 
-/* Home Media Query */
+    /* Home Media Query */
 
     nav {
         display: flex;
@@ -772,7 +780,11 @@ footer > p {
         margin-left: 65px;
     }
 
-/* People Media Query */
+    /* People Media Query */
+
+    #story-time {
+        padding-left: 95px;
+    }
 
     #people-hero-image {
         background-image: url(../images/people-hero-image.webp);
@@ -780,6 +792,7 @@ footer > p {
         background-size: cover;
         min-height: 400px;
     }
+
     #people-hero-outer h1 {
         font-size: 35px;
     }
@@ -793,6 +806,10 @@ footer > p {
     #middle-rescue h1 {
         margin-left: 95px;
         padding-top: 20px;
+    }
+
+    .menu {
+        padding-left: 20px;
     }
 
     .middle-rescue-image {
@@ -829,12 +846,14 @@ footer > p {
         width: 600px;
     }
 
-/* Book Here Media Query */
+    /* Book Here Media Query */
 
     .hours-operation {
         margin-top: 550px;
     }
-    .hours-operation, .our-location {
+
+    .hours-operation,
+    .our-location {
         margin-left: 35px;
         margin-bottom: 20px;
     }
@@ -848,7 +867,7 @@ footer > p {
         left: 30px;
     }
 
-/* Cats Media Query */
+    /* Cats Media Query */
 
     #cats-hero-image {
         background-image: url(../images/cat-hero-image.webp);
@@ -856,7 +875,7 @@ footer > p {
         background-size: cover;
         min-height: 400px;
     }
-        
+
     #cat-photos {
         column-count: 3;
     }
@@ -870,20 +889,20 @@ footer > p {
         width: 600px;
     }
 
-/* Thank You Media Query */
+    /* Thank You Media Query */
 
     #thankyou-page {
         padding-top: 85px;
     }
 }
 
-/* For screens from 400px wide and down */
-@media screen and (max-width: 400px) {
+/* For screens from 375px wide and down */
+@media screen and (max-width: 375px) {
 
-/* Navigation Media Query */
+    /* Navigation Media Query */
 
     nav h1 {
-        font-size: 25px;
+        font-size: 24px;
     }
 
     .logo {
@@ -896,7 +915,11 @@ footer > p {
         padding-left: 25px;
     }
 
-/* Home Media Query */
+    .menu li {
+        margin-right: 20px;
+    }
+
+    /* Home Media Query */
 
     #hero-image {
         min-height: 300px;
@@ -904,6 +927,7 @@ footer > p {
         background-position: 28% 89%;
         background-size: cover;
     }
+
     #middle-whisker h1 {
         font-size: 35px;
     }
@@ -912,7 +936,7 @@ footer > p {
         margin-left: 95px;
         font-size: 35px;
     }
-    
+
     .top-cat-text p {
         padding-bottom: 0;
     }
@@ -936,7 +960,7 @@ footer > p {
         font-size: 20px;
     }
 
-/* People Media Query */
+    /* People Media Query */
 
     #people-hero-image {
         min-height: 300px;
@@ -946,8 +970,8 @@ footer > p {
     }
 
     #middle-rescue h1 {
-        margin-left: 60px;
         font-size: 35px;
+        margin-left: 9px;
     }
 
     #bottom-people-cafe h1 {
@@ -961,8 +985,9 @@ footer > p {
     }
 
     .mo-eva-image img {
-        max-width: 380px;
+        max-width: 100%;
         padding-top: 0;
+        margin-right: 0;
     }
 
     .mo-eva-image p {
@@ -970,15 +995,11 @@ footer > p {
     }
 
     .mo-eva-text {
-        margin-left: 20px;
         font-size: 20px;
     }
 
-    .middle-rescue-image {
-        margin-left: 20px;
-    }
-
-    .middle-rescue-image img, .bottom-coffee-image img {
+    .middle-rescue-image img,
+    .bottom-coffee-image img {
         width: 90%;
     }
 
@@ -1007,7 +1028,11 @@ footer > p {
         padding-left: 20px;
     }
 
-/* Cats Media Query */
+    footer {
+        margin-right: 10px;
+    }
+
+    /* Cats Media Query */
 
     #cats-hero-image {
         background-image: url(../images/cat-hero-image.webp);
@@ -1015,13 +1040,15 @@ footer > p {
         background-size: cover;
         min-height: 300px;
     }
+
     #cat-photos {
         column-count: 2;
         padding-top: 230px;
     }
 
     #cats-hero-outer h1 {
-        font-size: 200%;
+        font-size: 150%;
+        padding-left: 20px;
     }
 
     #cat-photos h2 {
@@ -1029,27 +1056,44 @@ footer > p {
     }
 
     .cats-text {
-        margin-left: 20px;
+        margin-left: 10px;
         padding: 0;
     }
 
     .cats-text p {
         width: 350px;
+        padding-right: 0;
+    }
+
+    footer {
+        margin-right: 0
+    };
+
+    /* book here media query */
+
+    .book-here-section {
+        min-height: 0;
     }
 
     .book-here-form {
-        left: 20px;
-        width: 280px;
+        left: 30px;
+        width: 250px;
+        margin-top: 20px;
     }
 
-    .hours-operation, .our-location {
-        margin-left: 25px;
-        max-width: 345px;
+    .hours-operation,
+    .our-location {
+        margin-left: 46px;
+        max-width: 300px;
     }
 
-/* Thank you Media Query */
+    .hours-operation {
+        margin-top: 600px;
+    }
 
-    #wnwb-circle-logo  img {
+    /* Thank you Media Query */
+
+    #wnwb-circle-logo img {
         width: 90%;
         padding-bottom: 20px;
     }
