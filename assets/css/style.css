@@ -16,10 +16,6 @@ body {
     background-color: #FFF8F0; 
 }
 
-img {
-    max-width: 100%;
-}
-
 /* heading and logo */
 
 h1, h2, h3 {
@@ -511,7 +507,7 @@ footer > p {
 
 /* media queries */
 
-/* For larger screens from 1600px wide and down */
+/* For screens from 1600px wide and down */
 @media screen and (max-width: 1600px) {
 
 /* Home Media Query */
@@ -584,7 +580,7 @@ footer > p {
     }
 }
 
-/* For medium screens from 1280px wide and down */
+/* For screens from 1280px wide and down */
 @media screen and (max-width: 1280px) {
 
 /* Home Media Query */
@@ -708,10 +704,17 @@ footer > p {
     }
 }
 
-/* For tablet screens from 768px wide and down */
+/* For screens from 768px wide and down */
 @media screen and (max-width: 768px) {
 
 /* Home Media Query */
+
+    nav {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row-reverse;
+        justify-content: center;
+    }
 
     #hero-outer h1 {
         font-size: 180%;
@@ -765,6 +768,7 @@ footer > p {
     #bottom-people-cafe h1 {
         font-size: 45px;
         margin-left: 120px;
+        padding-top: 0;
     }
 
     #middle-rescue h1 {
@@ -773,7 +777,8 @@ footer > p {
     }
 
     .middle-rescue-image {
-        flex-direction: column;
+        display: grid;
+        justify-content: center;
     }
 
     .middle-rescue-image img {
@@ -781,12 +786,67 @@ footer > p {
     }
 
     .bottom-coffee-image {
+        display: flex;
         flex-direction: column;
+        align-items: center;
     }
 
     .mo-eva-image {
-        display: flex;
-        flex-direction: column;
-        flex-wrap: nowrap;
+        display: contents;
+    }
+
+    .mo-eva-image img {
+        max-width: 600px;
+    }
+
+    .mo-eva-text {
+        margin-right: 30px;
+    }
+
+    .mo-eva-image p {
+        margin-left: 0;
+        padding-right: 0;
+        margin-right: 20px;
+        width: 600px;
+    }
+
+/* Book Here Media Query */
+
+    .hours-operation {
+        margin-top: 550px;
+    }
+    .hours-operation, .our-location {
+        margin-left: 35px;
+        margin-bottom: 20px;
+    }
+
+    .book-here-section {
+        min-height: 0%;
+    }
+
+    .book-here-form {
+        margin-top: 20px;
+        left: 30px;
+    }
+
+/* Cats Media Query */
+
+    #cat-photos {
+        column-count: 3;
+    }
+
+    .cats-text {
+        margin-left: 70px;
+        padding: 0;
+    }
+
+    .cats-text p {
+        width: 600px;
+    }
+
+/* Thank You Media Query */
+
+    #thankyou-page {
+        padding-top: 85px;
     }
 }
