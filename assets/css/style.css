@@ -645,8 +645,8 @@ footer>p {
 
     .middle-rescue-image {
         margin-right: 0;
-        min-width: none;
-        min-height: none;
+        min-width: 0;
+        min-height: 0;
 
     }
 
@@ -1072,7 +1072,7 @@ footer>p {
 
     footer {
         margin-right: 0
-    };
+    }
 
     /* book here media query */
 
@@ -1103,3 +1103,148 @@ footer>p {
         padding-bottom: 20px;
     }
 }
+
+/* For screens from 320px wide and down */
+@media screen and (max-width: 320px) {
+
+    /* navigation links */
+    
+    nav h1 {
+        font-size: 20px;
+        padding-left: 0;
+    }
+
+    .menu {
+        padding-left: 10px;
+    }
+
+    /* home media query */
+
+    #hero-outer h1 {
+        font-size: 25px;
+        padding-bottom: 25px;
+    }
+
+    #hero-image {
+        min-height: 200px;
+    }
+
+    #bottom-whisker h1 {
+        margin-left: 55px;
+        padding-bottom: 30px;
+    }
+
+    .top-cat-text h3 {
+        font-size: 25px;
+    }
+
+    .top-cat-text p {
+        font-size: 19px;
+    }
+
+    .middle-cat-text p {
+        padding-left: 32px;
+        font-size: 19px;
+    }
+
+    .bottom-cat-image {
+        margin-left: 10px;
+    }
+
+    .bottom-cat-image img {
+        margin-left: 20px;
+    }
+
+    .bottom-cat-text {
+        padding-right: 0;
+        font-size: 19px;
+    }
+
+    .bottom-cat-image p {
+        margin-left: 0;
+    }
+
+    /* people media query */
+
+    #people-hero-image {
+        min-height: 200px;
+    }
+
+    #people-hero-outer h1 {
+        font-size: 35px;
+    }
+
+    #bottom-people-cafe h1 {
+        margin-left: 30px;
+    }
+
+    .mo-eva-image p {
+        width: 290px;
+        margin-right: 0;
+    }
+
+    .mo-eva-text {
+        font-size: 19px;
+    }
+
+    .middle-rescue-image img {
+        margin-left: 20px;
+    }
+
+    .middle-rescue-text {
+        margin-left: 25px;
+        padding-top: 30px;
+        font-size: 19px;
+    }
+
+    .bottom-people-text p {
+        font-size: 19px;
+    }
+
+    /* cats media query */
+
+    #cats-hero-image {
+        min-height: 220px;
+    }
+
+    #cats-hero-outer h1 {
+        padding-left: 0;
+    }
+
+    #cat-photos h2 {
+        font-size: 25px;
+    }
+
+    .cats-text {
+        font-size: 19px;
+    }
+
+    .cats-text p {
+        width: 290px;
+    }
+
+    /* booker here media query */
+
+    .book-here-form {
+        left: 10px;
+        width: 240px;
+        padding: 30px;
+    }
+
+    .hours-operation {
+        margin-top: 560px;
+    }
+    
+    .hours-operation, .our-location {
+        margin-left: 20px;
+        max-width: 280px;
+    }
+    
+    /* thank you media query */
+
+    #thankyou-text h2 {
+        padding-top: 25px;
+    }
+
+}   
+
