@@ -690,7 +690,6 @@ footer>p {
 
     .cats-text {
         margin-left: 280px;
-        margin-right: 230;
     }
 
     .cats-text p {
@@ -722,7 +721,7 @@ footer>p {
 /* For screens from 768px wide and down */
 @media screen and (max-width: 768px) {
 
-    /* Home Media Query */
+/* Home Media Query */
 
     nav {
         display: flex;
@@ -1239,7 +1238,7 @@ footer>p {
         margin-left: 20px;
         max-width: 280px;
     }
-    
+
     /* thank you media query */
 
     #thankyou-text h2 {
