@@ -3,6 +3,10 @@ Whiskers N Whole Beans is my first project for Code Insitute. The idea came from
 
 Whiskers N Whole Beans is a business's website. It is intended to give the user information on what the business is, what it does, and what they can do to avail of the services. I wanted to create a site that was welcoming without a crazy amount of colour, a lot of wording, or pictures. I wanted to make it simple and to the point, where it won't be overwhelming to customers, but it still had a bit of fun to it. 
 
+![Whiskers N Whole Beans across different screen sizes](/assets/readme-images/responsive-screens-readme.png)
+
+Visit Whiskers N Whole Beans [Here](https://apita1423.github.io/whiskers-n-whole-beans/). Hope you enjoy!
+
 ---
 
 ## Table of Contents
@@ -48,12 +52,26 @@ Whiskers N Whole Beans is a business's website. It is intended to give the user 
 ## Design
 
 ### Colour Scheme
+The colour scheme that I used for Whiskers N Whole Beans was more towards warm colours. The main idea of the site is to be a place where you can relax and feel at home. For many people, sitting on a chair with a cat on their lap purring, drinking tea or coffee, and having pastries can materialise warmth and relaxation. It does for me and bringing in some Autumn colours creates that atmosphere. 
 
+![Whiskers N Whole Beans Colour Scheme](/assets/readme-images/colour-scheme-readme.png)
 
 ### Typography
+Two fonts I used from Google Fonts where for the body Pangolin and for h1, h2, and h3 I used Shadows Into Light Two. My default font was Sans-serif. I decided on Pangolin and Shadows Into Light Two because of their playful. They capture the overall idea of the website, which is playful. Calm, but playful (just like the cats). 
+
+- Shadow Into Light Two - Used for Headings
+
+![Shadow Into Light Two](/assets/readme-images/headings-fonts-readme.png)
+
+- Pangolin Font - Used for Body
+
+![Pangolin Font](/assets/readme-images/body-font-readme.png)
+
+
 
 ### Imagery
 For the imagery of the site, I wanted to show cats doing what cats do best sleeping or getting up to no good. Cats have unique personalities and I tried to find pictures that once you looked at them you know there is a unique personality behind that face. I also wanted some soft tones to the pictures, but every now and then there is a pop of colour to the photos. My favourite colours are autumn colours (orange and brown), so you will find those colours throughout the site. 
+
 ### Wireframes
 
 ---
@@ -63,6 +81,12 @@ For the imagery of the site, I wanted to show cats doing what cats do best sleep
 ### General features on each page
 
 ### Future Implementations
+- To set up a live feed of the cat area.
+- Add a coffee page to the website - a coffee section was thought of in the wireframes, but it was a lot for my knowledge at the time and actual time.
+- Add a newsletter for updates on the cats or when cats are adopted - this was also part of my ideas at the beginning, but again knowledge and time. (add link to wireframe)
+- In the book here section, add a Manage Your Reservation. A customer would be able to create an account sign-in and cancel or if they would need to rescedule - this was also an idea that I had at the beginning, but same issue as above. (add link to wireframe)
+- I know many of the future implementaions were ideas that I thought of from the beginning, but as my knowledge grows I would like to test them on this project. (add link to wireframe)
+
 
 ### Accessibility
 
@@ -100,6 +124,13 @@ For the imagery of the site, I wanted to show cats doing what cats do best sleep
 ## Testing
 
 ### Testing Validation 
+- HTML Testing was validated through the W3C Validator. No errors or warnings were found. 
+
+![W3C Validator](/assets/readme-images/html-validator-readme.png)
+
+- CSS Testing was validated through the Jigsaw CSS Validator. No errors or warnings were found. 
+
+![CSS Jigsaw Validator](/assets/readme-images/css-validator-readme.png)
 
 ---
 
