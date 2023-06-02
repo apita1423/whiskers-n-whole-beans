@@ -1,11 +1,11 @@
 # Whiskers N Whole Beans
-Whiskers N Whole Beans is my first project for Code Insitute. The idea came from my love for coffee, books, and, of course, cats. I do have two cats name Mo and Eva and their picture was used for the People page and I am also a librarian. My cats were actually in foster care when we got them, so that also sparked the idea and I was also influenced by the growing number of cat cafes popping up in various cities. And, personally I always wanted to open a coffeeshop and bakery. 
+Whiskers N Whole Beans is my first project for Code Insitute. The idea came from my love for coffee, books, and, of course, cats. I do have two cats name Mo and Eva and their picture was used for the People page and I am also a librarian. My cats were actually in foster care when we got them, so that sparked the idea and was also influenced by the growing number of cat cafes popping up in various cities. And, personally I always wanted to open a coffeeshop and bakery. 
 
 Whiskers N Whole Beans is a business's website. It is intended to give the user information on what the business is, what it does, and what they can do to avail of the services. I wanted to create a site that was welcoming without a crazy amount of colour, a lot of wording, or pictures. I wanted to make it simple and to the point, where it won't be overwhelming to customers, but it still had a bit of fun to it. 
 
 ![Whiskers N Whole Beans across different screen sizes](/assets/readme-images/responsive-screens-readme.png)
 
-Whiskers N Whole Beans is Live! Visit [Here](https://apita1423.github.io/whiskers-n-whole-beans/). Hope you enjoy!
+Whiskers N Whole Beans is Live!  Visit [Here](https://apita1423.github.io/whiskers-n-whole-beans/).  Hope you enjoy!
 
 ---
 
@@ -46,19 +46,19 @@ Whiskers N Whole Beans is Live! Visit [Here](https://apita1423.github.io/whisker
 ## User Experience
 
 ### User Stories
-Cats are know for their calm nature just laying their sleeping for hours upon hours. I wanted to convey that calm nature through the website. For first time users, I wanted them to feel like there wasn't so much being thrown at them. For returning users, I wanted the website to feel like second nature. You are need of some relaxation and coffee/tea/pastry come hang with the cats. Working as a librarian, and having multiple patrons come to me asking me question I wanted to look something give me the answer right away and help the patron. That is why I linked the different pages through the text. A user wants to read the first page, but wants to quickly go to the Book Here page they can do that, it's right there. They want to find out about the DSPCA, there is a link for that right in the Home page. For returning user, they can click right on the Book Here menu right from the Home page and don't have to go through all the pages (in future implementation I mentioned that I wanted to add a Manage Your Reservation section, which allows them to cancel if they need to or change time).
+Cats are known for their calm nature just laying their sleeping for hours upon hours. I wanted to convey that calm nature through the website. For first time users, I wanted them to feel like there wasn't so much being thrown at them. For returning users, I wanted the website to feel like second nature.If you are in need of some relaxation and coffee/tea/pastry come hang with the cats. Working as a librarian, and having multiple patrons come to me asking me questions, I wanted to look something and not make me jump through multiple hoops to just get the answer. That is why I linked the different pages through the text. A user wants to read the first page, but wants to quickly go to the Book Here page they can do that, it's right there. They want to find out about the DSPCA, there is a link for that right in the Home page. For returning users, they can click right on the Book Here menu right from the Home page and don't have to go through all the pages (in future implementation I mentioned that I wanted to add a Manage Your Reservation section, which allows them to cancel if they need to or change time). The main goal was I wanted firs time or returning users to feel calm and happy coming to my website.
 
 ---
 
 ## Design
 
 ### Colour Scheme
-The colour scheme that I used for Whiskers N Whole Beans was more towards warm colours. The main idea of the site is to be a place where you can relax and feel at home. For many people, sitting on a chair with a cat on their lap purring, drinking tea or coffee, and having pastries can materialise warmth and relaxation. It does for me and bringing in some Autumn colours creates that atmosphere. 
+The colour scheme that I used for Whiskers N Whole Beans was more towards warm colours. The main idea of the site is to be a place where you can relax and feel at home. For many people, sitting on a chair with a purring cat on their lap, drinking tea or coffee, and having pastries can materialise warmth and relaxation. It does for me and bringing in some Autumn colours creates that atmosphere. 
 
 ![Whiskers N Whole Beans Colour Scheme](/assets/readme-images/colour-scheme.png)
 
 ### Typography
-Two fonts I used from Google Fonts where for the body Pangolin and for h1, h2, and h3 I used Shadows Into Light Two. My default font was Sans-serif. I decided on Pangolin and Shadows Into Light Two because of their playful. They capture the overall idea of the website, which is playful. Calm, but playful (just like the cats). I did have one problem that would show up in my editor (CSS), but passed the Jisgsaw validator. I don't think there is much I can do. I have added an image of it. 
+The two fonts I used are from Google Fonts. The font used for the body was Pangolin and for h1, h2, and h3 was Shadows Into Light Two. My default font was Sans-serif. I decided on Pangolin and Shadows Into Light Two because of their playful nature. They capture the overall idea of the website, which is playful. Calm, but playful (just like the cats). 
 
 - Shadow Into Light Two - Used for Headings
 
@@ -68,16 +68,15 @@ Two fonts I used from Google Fonts where for the body Pangolin and for h1, h2, a
 
 ![Pangolin Font](/assets/readme-images/body-font-readme.png)
 
-- Font problem in editor
+I did have one problem that showed up in the editor (CSS), but passed the Jisgsaw validator. I don't think there is much I can do about it, and have added an image of it. 
 
 ![Font problem](/assets/readme-images/font-problem.png)
-
 
 ### Imagery
 For the imagery of the site, I wanted to show cats doing what cats do best sleeping or getting up to no good. Cats have unique personalities and I tried to find pictures that once you looked at them you know there is a unique personality behind that face. I also wanted some soft tones to the pictures, but every now and then there is a pop of colour to the photos. My favourite colours are autumn colours (orange and brown), so you will find those colours throughout the site. 
 
 ### Wireframes
-I used Balsamiq to bring my ideas to "life". There was a lot that I added to the wireframes, but I had to delete the cafe page due to time and had to let go of some of the ideas due to knowledge and time. I did add this to my future implementation section. Thank You page was not thought of at the beginning it was a page that was added towards the end of the project. I have added the Thank You image to the Feature section. 
+I used Balsamiq to bring my ideas to "life". There was a lot that I added to the wireframes, but I had to delete the cafe page due to time and had to let go of some of the ideas due to knowledge and time. I did add this to my future implementation section. Thank You page was not thought of right at the beginning. It was a page that was added towards the end of the project based on suggestion on the Slack community. I have added the Thank You image to the Feature section. 
 
 * [Home Page Wireframe](/assets/wireframes-images/home-page-wireframe.png)
 * [People Page Wireframe](/assets/wireframes-images/people-page-wireframe.png)
@@ -92,7 +91,7 @@ I used Balsamiq to bring my ideas to "life". There was a lot that I added to the
 ### General features on each page
 - Nav/Menu
 
-Nav/Menu bar has four main buttons situated on the right with the logo in the middle and title on the left. The logo and title are linked, so when clicked in the various pages will take the user back to the Home page. I used the same concept as in the Love Running project, where the menu buttons will highlight with a line in the bottom to let the user know which page they are on. The title, logo, and menu buttons do change position depending on screen sizes. 
+Nav/Menu bar has four main buttons situated on the right with the logo in the middle and title on the left. The logo and title are linked to the Home page, so when clicked in the other pages it will take the user back to the Home page. I used the same concept as in the Love Running project, where the menu buttons will highlight with a line in the bottom to let the user know which page they are on. The title, logo, and menu buttons do change position depending on screen sizes. The responsive image at the top of the page show this. 
 
 ![Navigation and Menu](/assets/readme-images/nav-menu.png)
 
@@ -104,7 +103,7 @@ The logo was sourced from [Canva](https://www.canva.com/) and I changed the colo
 
 - Favicon
 
-The favicon was taken from the logo that was sourced from Canva. 
+The favicon was taken from the logo that was sourced from [Canva](https://www.canva.com/). 
 
 ![Favicon](/assets/readme-images/favicon-readme.png)
 
@@ -116,19 +115,20 @@ In my wireframes, my Home hero image was different, but this was was picked due 
 
 - Home Introduction
 
-The Home page is more of an overview on the People and Cats page. The Home Introduction is more like the Ethos in the Love Running project.
+The Home page is more of an overview of the People and Cats page. The Home Introduction is more like the Ethos in the Love Running project.
 
 ![Home Introduction](/assets/readme-images/home-intro.png)
 
 - Home Cats
 
-Here I tried to hit the main points about the Cats and who we partnered with to help with the adoption. I have attached a link to the DSPCA so user can click and it will take them directly to the DSPCA's website (People page also has this). I have also linked the Cats page so if the user wants to go directly to the Cats page from this point on the page they can. 
+Here I tried to hit the main points about the Cats and who we partnered with to help with the adoption. I have attached a link to the DSPCA so users can click and it will take them directly to the DSPCA's website (People page also has this). I have also linked the Cats page so if the user wants to go directly to the Cats page from this point on the page they can. 
 
 ![Home Cats](/assets/readme-images/home-cats.png)
 
 - Home People
 
 This section is also a place where I tried to hit the main points about the People section. 
+
 ![Home People](/assets/readme-images/home-people.png)
 
 - Footer
@@ -145,7 +145,7 @@ Due to this page being called People page, I wanted a hero image that had a cat 
 
 - Mo and Eva
 
-The Mo and Eva section, which has the heading of "Behind every idea there is a story..." is the about us page. It starts with the story behind the idea of Whiskers N Whole Bean and Mo and Eva are the start of that. Mo and Eva are my actual cats and they were adopted. They do also have a brother called Thorin, who is a labrador. The image used is my personal image. 
+The Mo and Eva section, which has the heading of "Behind every idea there is a story..." is essentially the about us page. It starts with the story behind the idea of Whiskers N Whole Bean and Mo and Eva are the start of that. Mo and Eva are my actual cats and they were adopted. They do also have a brother called Thorin, who is a labrador. The image used here is my personal image. 
 
 ![Mo and Eva](/assets/readme-images/people-mo-eva.png)
 
@@ -157,31 +157,31 @@ The Rescue section is where I go a bit more into detail about the reasons behind
 
 - People Cafe
 
-In my wireframes, I dedicated a whole page to the cafe, but because of time I had to scrap it. But, it is a cat cafe, so I took this area to hit some of the points about the cat cafe.
+In my wireframes, I dedicated a whole page to the cafe, but because of time I had to scrap it. But, it is a cat cafe, so I took this area to hit some of the points about the cafe.
 
 ![People Cafe](/assets/readme-images/people-cafe.png)
 
 - Cats Hero Image
 
-In my images, I wanted to show cats as natural as possible (like you would take a picture of them yourself). And, I think this picture was perfect. I also liked it due to many cats in foster or rescue are not always kittens, some of them might be a bit older. They are still awesome to adopt.
+In my images, I wanted to show cats as natural as possible (like you would take a picture of them yourself at home). And, I think this picture was perfect. I also liked it due to many cats housed in foster or rescue care are not always kittens, some of them might be a bit older. And, they are still awesome to adopt.
 
 ![Cats Hero Image](/assets/readme-images/cats-hero-image.png)
 
 - Cats Main Text
 
-The main text in this section explains how many of the cats are named after literary characters or authors. I also mention reasons as to why users would need to book to see the cats. 
+The main text in this section mentions how the cats are named after literary characters or authors. I also mention reasons as to why users would need to book to see the cats. 
 
 ![Cats Main Text](/assets/readme-images/cats-page.png)
 
 - Cats Gallery 
 
-I took the idea of the gallery from the Love Running project and the idea was these are cats being cats that are housed in Whiskers N Whole Beans. I also tried to find images that showed some sort of personality to them. 
+I took the idea of the gallery from the Love Running project. I wanted to convey cats just being cats that are housed in Whiskers N Whole Beans. I also tried to find images that showed some sort of personality to them. 
 
 ![Cat Gallery](/assets/readme-images/cats-gallery.png)
 
 - Book Here Form
 
-Book Here form was sourced from the Love Runnigng project, but tweaked it to fit the design of the website. I do like round corners, so I pretty much cornered the box, the three inputs, and the Book Here! button. The radio buttons consistes of the hours that are underneath the book here form. 
+Book Here form was sourced from the Love Runnigng project, but tweaked it to fit the design of the website. I do like how round corners looked, so I round the book here box, the three inputs, and the Book Here! button. The radio buttons consists of Morning, Afternoon, Evening and these concide wit the hours underneath the book here form. This allows the user to know what time of day they would visit. 
 
 ![Book Here Form](/assets/readme-images/book-here-form.png)
 
@@ -199,26 +199,26 @@ The location is based on different places that I have lived with Mo and Eva all 
 
 - Thank You Page
 
-Once the user enters their details and click on Book Here! They are presented with a Thank You Page. The page lets them know that we have received the request and they should be receiving an email soon. 
+Once the user enters their details and clicks Book Here! They are presented with a Thank You Page. The page lets them know that we have received the request and they should be receiving an email soon. 
 
 ![Thank You Page](/assets/readme-images/thank-you-page.png)
 
 - Thank You Logo Stamp
 
-The Thank You Stamp was created in Canva using the sourced cat with the coffee logo. It conviently goes with the saying on the Thank You page of "You have recieved the seal of approval".
+The Thank You Stamp was created in Canva using the sourced cat logo. It conviently goes with the saying on the Thank You page of "You have recieved the seal of approval".
 
 ![Thank You Logo Stamp](/assets/readme-images/logo-stamp-readme.png)
 
 ### Future Implementations
 - To set up a live feed of the cat area.
-- Add a coffee page to the website - a coffee section was thought of in the wireframes, but it was a lot for my knowledge at the time and actual time.
-- Add a newsletter for updates on the cats or when cats are adopted - this was also part of my ideas at the beginning, but again knowledge and time. (add link to wireframe)
-- In the book here section, add a Manage Your Reservation. A customer would be able to create an account sign-in and cancel or if they would need to rescedule - this was also an idea that I had at the beginning, but same issue as above. (add link to wireframe)
-- I would like for the picture of the "cats" in the gallery, when you hover on them, they turn to reveal information on the cats. I had this idea, as well, from the beginning, but again same issue as above.
+- Add a coffee page to the website - a coffee section was thought of in the wireframes, but it was a lot for my knowledge at the time and actual time. [Cafe Wireframe](/assets/wireframes-images/cafe-page-wireframe.png)
+- Add a newsletter for updates on the cats or when cats are adopted - this was also part of my ideas at the beginning, but again knowledge and time. 
+- In the book here section, add a Manage Your Reservation. A customer would be able to create an account sign-in and cancel their reservation or if they would need to rescedule - this was also an idea that I had at the beginning, but same issue as above. [Book Here Wireframe](/assets/wireframes-images/book-here-wireframe.png)
+- I would like for the picture of the "cats" in the gallery, when a user hovers over them, they turn to reveal information on the cats. I had this idea, as well, from the beginning, but again same issue as above. [Cats Page Wireframe](/assets/wireframes-images/cats-page-wireframe.png)
 - I know many of the future implementaions were ideas that I thought of from the beginning, but my knowledge is not there yet. As my knowledge grows I would like to test them on this project. 
 
 ### Accessibility
-With every image and icon used throughout Whiskers N Whole Beans I have added an aria-label or an alt attribute to enable screen readers to understand. I tried to use colour that was not to bright or light. The font is readable, but I do feel for future project I would do more research on what fonts are more accessible.
+With every image and icon used throughout Whiskers N Whole Beans I have added an aria-label or an alt attribute. I tried to use colour that was not to bright or light. The font is readable, but I do feel for future projects, I would do more research on what fonts are more accessible.
 
 The desktop version for Lighthouse gave great numbers, but the mobile was not the greatest for Performance (image below). I would like to work on that and see what I can do to make that better. I used WAVE for the contrast, which gave back 0 errors (image below).
 
@@ -248,7 +248,7 @@ WAVE - Web Accessibility Evaluation Tool
 - [Balsamiq](https://balsamiq.com/) - Used to create a sample of how I wanted the site to look. 
 - [Google Fonts](https://fonts.google.com/) - Used to find fonts. Fonts used was Pangolin and Shadows Into Light Two and Sans-serif is the default font. 
 - [Coolors](https://coolors.co/) - Used to put together the colour scheme for the site. 
-- [Canva](https://www.canva.com/) - Used to create the logo and logo stamp in the thank you page. 
+- [Canva](https://www.canva.com/) - Used to source the logo and logo stamp in the thank you page. 
 - [Favicon](https://favicon.io) - Used to create the favicon from the logo that was created. 
 - [Pexels](https://www.pexels.com/) - Used for photos on the website (Mo and Eva picture was taken from my personal photos).
 - [TinyPNG](https://tinypng.com/) - Used to compress the photos that were being used. 
@@ -257,6 +257,7 @@ WAVE - Web Accessibility Evaluation Tool
 - [Font Awesome](https://fontawesome.com/) - Used for icons in the footer and with some of the paragraphs. Icons used: Facebook, Twitter, Instagram, TikTok, cat,coffee cup, and paw. 
 
 - Google and Firefox Developer Tools - Used to test various features and responsiveness of the site. 
+
 ---
 
 ## Deployment
@@ -270,15 +271,16 @@ Instructions on how to deploy:
 2. On the left navigation menu, click on your respository. [Github Repository - apita1423](https://github.com/apita1423/whiskers-n-whole-beans).
 3. Click on Settings.
 4. Click on Pages on the left navigation menu.
-5. Click on dropdown meny under Branch and select main and hit Save (this process might take a few minutes).
+5. Click on the dropdown menu under Branch and select main and hit Save (this process might take a few minutes).
 
 ---
 
 ## Testing
-Testing was done by me, friends, and family. This was to ensure that the site and links worked through various screen sizes. 
+Testing was done by me, friends, and family. This was to ensure that the site and links worked through various screen sizes. Links have been tested and are working. 
 
 * Site was tested on Google Chrome, Firefox, and Safari. 
 * I tested the site using W3C, Jigsaw, Lighthouse, and WAVE.
+* Media Queries were increasingly difficult for me, so I relied heavily on the dev tools in Google Chrome and Firefox to test the screen sizes. 
 
 ### Testing Validation 
 - HTML Testing was validated through the W3C Validator. No errors or warnings were found. 
@@ -298,7 +300,8 @@ Whiskers N Whole Beans would be the first website I have ever built, so I relied
 
 ### Content
 Content was written by Amanda Pita. 
-Much of the content came from personal experiences. For example, when I adopted Mo and Eva, I had to make an appointment before seeing them due to other cats being in the same house. I would later find out the reason for that, from personal experience, was because cats can become extremely stressful with changes in their environment. We moved from Ireland back to the States, and long story short there was a lot of vet visits due to an increase amount of stress. Also, I'm a librarian, so of course, I would name the cats after literary characters or authors. 
+
+Much of the content came from personal experiences. For example, when I adopted Mo and Eva, I had to make an appointment before seeing them due to other cats being in the same house. I would later find out the reason for that, from personal experience, was because cats can become extremely stressful with changes in their environment. We moved from Ireland back to the States, and long story short there was a lot of vet visits due to an increase amount of stress. I am also a librarian, so of course, I would name the cats after literary characters or authors. 
 
 ### Media
 Mo and Eva image in the People page is from my personal photos. 
@@ -326,10 +329,9 @@ Images sourced from Pexel:
 * [Cats Gallery Image 13](https://www.pexels.com/photo/black-and-white-cat-sitting-beside-clear-glass-beverage-dispenser-table-lamp-and-books-on-brown-wooden-table-1441597/)
 * [Book Here Image](https://www.pexels.com/photo/close-up-photo-of-cat-looking-up-1543801/)
 
-
 ### Acknowledgments
 I would like to first give thanks to my husband (who would look at me with a straight and understanding face when I was explaining to him what the code does). He was my rubber duck for the marjority of the project. 
 
-I'm also eternally grateful to my mentor Martina who guided me through the process and helped convince me that I'm doing fine and can actually do it! Helped me a lot especially when imposter symdrome started creeping in. 
+I'm extremely grateful to my mentor Martina who guided me through the process and helped convince me that I'm doing fine and can actually do it! Helped me a lot especially when imposter symdrome started creeping in. 
 
 
