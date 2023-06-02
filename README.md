@@ -95,19 +95,19 @@ I used Balsamiq to bring my ideas to "life". There was a lot that I added to the
 - I know many of the future implementaions were ideas that I thought of from the beginning, but my knowledge is not there yet. As my knowledge grows I would like to test them on this project. 
 
 ### Accessibility
-With every image and icon used throughout Whiskers N Whole Beans I have added an aria-label to enable screen readers to understand. 
+With every image and icon used throughout Whiskers N Whole Beans I have added an aria-label or an alt attribute to enable screen readers to understand. I tried to use colour that was not to bright or light. The font is readable, but I do feel for future project I would do more research on what fonts are more accessible.
 
-The desktop version for Lighthouse gave great numbers, but the mobile was not the greatest for Performance (see image). I would like to work on that and see what I can do. I used WAVE for the contrast, which gave back 0 errors (image below).
+The desktop version for Lighthouse gave great numbers, but the mobile was not the greatest for Performance (image below). I would like to work on that and see what I can do to make that better. I used WAVE for the contrast, which gave back 0 errors (image below).
 
-- Lighthouse Desktop Version.
+Lighthouse Desktop Version.
 
 ![Lighthouse Desktop](/assets/readme-images/lighthouse-desktop.png)
 
-- Lighthouse Mobile Version 
+Lighthouse Mobile Version 
 
 ![Lighthouse Mobile](/assets/readme-images/lighthouse-mobile.png)
 
-- WAVE - Web Accessibility Evaluation Tool
+WAVE - Web Accessibility Evaluation Tool
 
 ![WAVE Evaluation Tool](/assets/readme-images/wave.png)
 
@@ -171,10 +171,11 @@ Testing was done by me, friends, and family. This was to ensure that the site an
 ## Credits
 
 ### Code Used
+Whiskers N Whole Beans would be the first website I have ever built, so I relied on Code Institute's Love Running project to guide me through the process. Although I used it as a guide, I tweak the code to fit the website. For example, the menu in the navigation bar. The book here form was based on the Love Running project form, but tweaked it to fit the design of the website. 
 
 ### Content
-- Content was written by Amanda Pita. 
-- Much of the content came from personal experiences. For example, when I adopted Mo and Eva, I had to make an appointment before seeing them due to other cats being in the same house. I would later find out the reason for that, from personal experience, was because cats can become extremely stressful with changes in their environment. We moved from Ireland back to the States, and long story short there was a lot of vet visits due to an increase amount of stress. Also, I'm a librarian, so of course, I would name the cats after literary characters or authors. 
+Content was written by Amanda Pita. 
+Much of the content came from personal experiences. For example, when I adopted Mo and Eva, I had to make an appointment before seeing them due to other cats being in the same house. I would later find out the reason for that, from personal experience, was because cats can become extremely stressful with changes in their environment. We moved from Ireland back to the States, and long story short there was a lot of vet visits due to an increase amount of stress. Also, I'm a librarian, so of course, I would name the cats after literary characters or authors. 
 
 ### Media
 Mo and Eva image in the People page is from my personal photos. 
@@ -207,3 +208,5 @@ Images sourced from Pexel:
 I would like to first give thanks to my husband (who would look at me with a straight and understanding face when I was explaining to him what the code does). He was my rubber duck for the marjority of the project. 
 
 I'm also eternally grateful to my mentor Martina who guided me through the process and helped convince me that I'm doing fine and can actually do it! Helped me a lot especially when imposter symdrome started creeping in. 
+
+
