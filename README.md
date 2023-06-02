@@ -5,7 +5,7 @@ Whiskers N Whole Beans is a business's website. It is intended to give the user 
 
 ![Whiskers N Whole Beans across different screen sizes](/assets/readme-images/responsive-screens-readme.png)
 
-Visit Whiskers N Whole Beans [Here](https://apita1423.github.io/whiskers-n-whole-beans/). Hope you enjoy!
+Whiskers N Whole Beans is Live! Visit [Here](https://apita1423.github.io/whiskers-n-whole-beans/). Hope you enjoy!
 
 ---
 
@@ -68,11 +68,17 @@ Two fonts I used from Google Fonts where for the body Pangolin and for h1, h2, a
 ![Pangolin Font](/assets/readme-images/body-font-readme.png)
 
 
-
 ### Imagery
 For the imagery of the site, I wanted to show cats doing what cats do best sleeping or getting up to no good. Cats have unique personalities and I tried to find pictures that once you looked at them you know there is a unique personality behind that face. I also wanted some soft tones to the pictures, but every now and then there is a pop of colour to the photos. My favourite colours are autumn colours (orange and brown), so you will find those colours throughout the site. 
 
 ### Wireframes
+I used Balsamiq to bring my ideas to "life". There was a lot that I added to the wireframes, but I had to delete the cafe page due to time and had to let go of some of the ideas due to knowledge and time. I did add this to my future implementation section. Thank You page was not thought of at the beginning it was a page that was added towards the end of the project. I have added the Thank You image to the Feature section. 
+
+* [Home Page Wireframe](/assets/wireframes-images/home-page-wireframe.png)
+* [People Page Wireframe](/assets/wireframes-images/people-page-wireframe.png)
+* [Cats Page Wireframe](/assets/wireframes-images/cats-page-wireframe.png)
+* [Cafe Page Wireframe](/assets/wireframes-images/cafe-page-wireframe.png)
+* [Book Here Wireframe](/assets/wireframes-images/book-here-wireframe.png)
 
 ---
 
@@ -85,7 +91,8 @@ For the imagery of the site, I wanted to show cats doing what cats do best sleep
 - Add a coffee page to the website - a coffee section was thought of in the wireframes, but it was a lot for my knowledge at the time and actual time.
 - Add a newsletter for updates on the cats or when cats are adopted - this was also part of my ideas at the beginning, but again knowledge and time. (add link to wireframe)
 - In the book here section, add a Manage Your Reservation. A customer would be able to create an account sign-in and cancel or if they would need to rescedule - this was also an idea that I had at the beginning, but same issue as above. (add link to wireframe)
-- I know many of the future implementaions were ideas that I thought of from the beginning, but as my knowledge grows I would like to test them on this project. (add link to wireframe)
+- I would like for the picture of the "cats" in the gallery, when you hover on them, they turn to reveal information on the cats. I had this idea, as well, from the beginning, but again same issue as above.
+- I know many of the future implementaions were ideas that I thought of from the beginning, but my knowledge is not there yet. As my knowledge grows I would like to test them on this project. 
 
 
 ### Accessibility
@@ -139,7 +146,39 @@ For the imagery of the site, I wanted to show cats doing what cats do best sleep
 ### Code Used
 
 ### Content
+- Content was written by Amanda Pita. 
+- Much of the content came from personal experiences. For example, when I adopted Mo and Eva, I had to make an appointment before seeing them due to other cats being in the same house. I would later find out the reason for that, from personal experience, was because cats can become extremely stressful with changes in their environment. We moved from Ireland back to the States, and long story short there was a lot of vet visits due to an increase amount of stress. Also, I'm a librarian, so of course, I would name the cats after literary characters or authors. 
 
 ### Media
+Mo and Eva image in the People page is from my personal photos. 
+
+Images sourced from Pexel:
+* [Home Hero Image](https://www.pexels.com/photo/adorable-cat-resting-in-armchair-near-table-with-coffee-4556369/)
+* [Home Middle Image](https://www.pexels.com/photo/two-tabby-kittens-lying-down-1787414/)
+* [Home Bottom Image](https://www.pexels.com/photo/person-carrying-black-cat-1123999/)
+* [People Hero Image](https://www.pexels.com/photo/black-and-white-cat-looking-at-the-person-s-silver-necklace-7726311/)
+* [People Rescue Image](https://www.pexels.com/photo/person-petting-orange-tabby-cat-1307919/)
+* [People Cafe Image](https://www.pexels.com/photo/assorted-decors-with-brown-rack-inside-store-683039/)
+* [Cats Hero Image](https://www.pexels.com/photo/two-orange-and-brown-cats-reclined-on-brown-rug-1386422/)
+* [Cats Gallery Image 1](https://www.pexels.com/photo/white-and-black-cat-inside-white-textile-977933/)
+* [Cats Gallery Image 2](https://www.pexels.com/photo/cat-lying-on-sofa-1359312/)
+* [Cats Gallery Image 3](https://www.pexels.com/photo/selective-focus-photography-of-cat-sitting-on-window-2278093/)
+* [Cats Gallery Image 4](https://www.pexels.com/photo/a-black-cat-playing-with-a-rope-7725967/)
+* [Cats Gallery Image 5](https://www.pexels.com/photo/silver-tabby-cat-on-blue-textile-3822875/)
+* [Cats Gallery Image 6](https://www.pexels.com/photo/gray-tabby-cat-lying-on-white-surface-177809/)
+* [Cats Gallery Image 7](https://www.pexels.com/photo/gray-cat-near-gray-vase-with-sunflower-674580/)
+* [Cats Gallery Image 8](https://www.pexels.com/photo/orange-tabby-cat-on-brown-knitted-textile-982300/)
+* [Cats Gallery Image 9](https://www.pexels.com/photo/orange-cat-stretching-3643714/)
+* [Cats Gallery Image 10](https://www.pexels.com/photo/a-tuxedo-cat-hugging-the-orange-tabby-cat-7725619/)
+* [Cats Gallery Image 11](https://www.pexels.com/photo/black-and-white-tabby-cats-sleeping-on-red-textile-96428/)
+* [Cats Gallery Image 12](https://www.pexels.com/photo/close-up-photo-of-a-funny-cat-225406/)
+* [Cats Gallery Image 13](https://www.pexels.com/photo/black-and-white-cat-sitting-beside-clear-glass-beverage-dispenser-table-lamp-and-books-on-brown-wooden-table-1441597/)
+* [Book Here Image](https://www.pexels.com/photo/close-up-photo-of-cat-looking-up-1543801/)
+
+
+
 
 ### Acknowledgments
+I would like to first give thanks to my husband (who would look at me with a straight and understanding face when I was explaining to him what the code does). He was my rubber duck for the marjority of the project. 
+
+I'm also eternally grateful to my mentor Martina who guided me through the process and helped convince me that I'm doing fine and can actually do it! Helped me a lot especially when imposter symdrome started creeping in. 
