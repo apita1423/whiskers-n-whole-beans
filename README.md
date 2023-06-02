@@ -94,8 +94,22 @@ I used Balsamiq to bring my ideas to "life". There was a lot that I added to the
 - I would like for the picture of the "cats" in the gallery, when you hover on them, they turn to reveal information on the cats. I had this idea, as well, from the beginning, but again same issue as above.
 - I know many of the future implementaions were ideas that I thought of from the beginning, but my knowledge is not there yet. As my knowledge grows I would like to test them on this project. 
 
-
 ### Accessibility
+With every image and icon used throughout Whiskers N Whole Beans I have added an aria-label to enable screen readers to understand. 
+
+The desktop version for Lighthouse gave great numbers, but the mobile was not the greatest for Performance (see image). I would like to work on that and see what I can do. I used WAVE for the contrast, which gave back 0 errors (image below).
+
+- Lighthouse Desktop Version.
+
+![Lighthouse Desktop](/assets/readme-images/lighthouse-desktop.png)
+
+- Lighthouse Mobile Version 
+
+![Lighthouse Mobile](/assets/readme-images/lighthouse-mobile.png)
+
+- WAVE - Web Accessibility Evaluation Tool
+
+![WAVE Evaluation Tool](/assets/readme-images/wave.png)
 
 ---
 
@@ -123,12 +137,25 @@ I used Balsamiq to bring my ideas to "life". There was a lot that I added to the
 ---
 
 ## Deployment
+Whiskers N Whole Beans has been deployed through Github.
 
-### Deployment
+- Click Here for the live site: [Whiskers N Whole Beans](https://apita1423.github.io/whiskers-n-whole-beans/index.html)
+
+Instructions on how to deploy:
+
+1. Login to Github.
+2. On the left navigation menu, click on your respository. [Github Repository - apita1423](https://github.com/apita1423/whiskers-n-whole-beans).
+3. Click on Settings.
+4. Click on Pages on the left navigation menu.
+5. Click on dropdown meny under Branch and select main and hit Save (this process might take a few minutes).
 
 ---
 
 ## Testing
+Testing was done by me, friends, and family. This was to ensure that the site and links worked through various screen sizes. 
+
+* Site was tested on Google Chrome, Firefox, and Safari. 
+* I tested the site using W3C, Jigsaw, Lighthouse, and WAVE.
 
 ### Testing Validation 
 - HTML Testing was validated through the W3C Validator. No errors or warnings were found. 
@@ -174,8 +201,6 @@ Images sourced from Pexel:
 * [Cats Gallery Image 12](https://www.pexels.com/photo/close-up-photo-of-a-funny-cat-225406/)
 * [Cats Gallery Image 13](https://www.pexels.com/photo/black-and-white-cat-sitting-beside-clear-glass-beverage-dispenser-table-lamp-and-books-on-brown-wooden-table-1441597/)
 * [Book Here Image](https://www.pexels.com/photo/close-up-photo-of-cat-looking-up-1543801/)
-
-
 
 
 ### Acknowledgments
