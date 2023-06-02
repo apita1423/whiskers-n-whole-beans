@@ -57,7 +57,7 @@ The colour scheme that I used for Whiskers N Whole Beans was more towards warm c
 ![Whiskers N Whole Beans Colour Scheme](/assets/readme-images/colour-scheme-readme.png)
 
 ### Typography
-Two fonts I used from Google Fonts where for the body Pangolin and for h1, h2, and h3 I used Shadows Into Light Two. My default font was Sans-serif. I decided on Pangolin and Shadows Into Light Two because of their playful. They capture the overall idea of the website, which is playful. Calm, but playful (just like the cats). 
+Two fonts I used from Google Fonts where for the body Pangolin and for h1, h2, and h3 I used Shadows Into Light Two. My default font was Sans-serif. I decided on Pangolin and Shadows Into Light Two because of their playful. They capture the overall idea of the website, which is playful. Calm, but playful (just like the cats). I did have one problem that would show up in my editor (CSS), but passed the Jisgsaw validator. I don't think there is much I can do. I have added an image of it. 
 
 - Shadow Into Light Two - Used for Headings
 
@@ -66,6 +66,10 @@ Two fonts I used from Google Fonts where for the body Pangolin and for h1, h2, a
 - Pangolin Font - Used for Body
 
 ![Pangolin Font](/assets/readme-images/body-font-readme.png)
+
+- Font problem in editor
+
+![Font problem](/assets/readme-images/font-problem.png)
 
 
 ### Imagery
@@ -85,6 +89,65 @@ I used Balsamiq to bring my ideas to "life". There was a lot that I added to the
 ## Features
 
 ### General features on each page
+Nav/Menu
+![Navigation and Menu](/assets/readme-images/nav-menu.png)
+
+Logo
+![Logo](/assets/readme-images/logo-readme.png)
+
+Favicon
+![Favicon](/assets/readme-images/favicon-readme.png)
+
+Home Hero Image
+![Home Hero Image](/assets/readme-images/home-hero-image.png)
+
+Home Introduction
+![Home Introduction](/assets/readme-images/home-intro.png)
+
+Home Cats
+![Home Cats](/assets/readme-images/home-cats.png)
+
+Home People
+![Home People](/assets/readme-images/home-people.png)
+
+Footer
+![Footer](/assets/readme-images/footer-social-networks.png)
+
+People Hero Image
+![People Hero Image](/assets/readme-images/people-hero-image.png)
+
+Mo and Eva
+![Mo and Eva](/assets/readme-images/people-mo-eva.png)
+
+People Rescue 
+![People Rescue](/assets/readme-images/people-rescue.png)
+
+People Cafe
+![People Cafe](/assets/readme-images/people-cafe.png)
+
+Cats Hero Image
+![Cats Hero Image](/assets/readme-images/cats-hero-image.png)
+
+Cats Main Text
+![Cats Main Text](/assets/readme-images/cats-page.png)
+
+Cats Gallery 
+![Cat Gallery](/assets/readme-images/cats-gallery.png)
+
+Book Here Form
+![Book Here Form](/assets/readme-images/book-here-form.png)
+
+Hours of Operation
+![Hours of Operation](/assets/readme-images/hours-operation.png)
+
+Our Location
+![Our Location](/assets/readme-images/our-location.png)
+
+Thank You Page
+![Thank You Page](/assets/readme-images/thank-you-page.png)
+
+Thank You Logo Stamp
+![Thank You Logo Stamp](/assets/readme-images/logo-stamp-readme.png)
 
 ### Future Implementations
 - To set up a live feed of the cat area.
